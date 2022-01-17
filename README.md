@@ -1,7 +1,7 @@
 ## Olá! Esse é o Projeto Lumens do grupo 05!
 
 <h4 align="center">
-<img align="center" alt="logo do projeto" width="300" src="https://cdn.discordapp.com/attachments/912136460294041681/932669382482608148/branco_com_controno.png">
+<img align="center" alt="logo do projeto" width="250" src="https://cdn.discordapp.com/attachments/912136460294041681/932669382482608148/branco_com_controno.png">
 
 
 
@@ -12,7 +12,7 @@ Somos um e-Commerce focado em ajudar e conscientizar a população menos favorec
 
 ## 👨‍💻 Time:
 
-💜 Um agradecimento especial Para os colaboradores deste projeto!! 👏 
+💜 Um agradecimento especial para os colaboradores deste projeto!! 👏 
 <table>
 <tr>
  <td align="center"><a href="https://github.com/esyamamoto"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/912136460294041681/932660487395631154/eu.jpg" width="100px;" alt=""/><br /><sub><b>Erika </b></sub></a><br /><a href="https://github.com/esyamamoto" title="GitHub Erika"></a></td> <td align="center"><a href="https://github.com/Gui-Tadeu"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/912136460294041681/932660487676633108/gui.jpg" width="100px;" alt=""/><br /><sub><b>Guilherme Tadeu</b></sub></a><br /><a href="https://github.com/Gui-Tadeu" title="GitHub Guilherme"></a></td><td align="center"><a href="https://github.com/Yagocoelho"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/912136460294041681/932660487970238464/yago.jpg" width="100px;" alt=""/><br /><sub><b>Yago</b></sub></a><br /><a href="https://github.com/Yagocoelho" title="GitHub Yago"</a></td><td align="center"><a href="https://github.com/LuukasOo"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/912136460294041681/932660995854303262/jao.jpg" width="100px;" alt=""/><br /><sub><b>João Lucas</b></sub></a><br /><a href="https://github.com/LuukasOo" title="GitHub João Lucas"></a></td> <td align="center"><a href="https://github.com/JessicaPersou"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/912136460294041681/932652577592598598/eu.jpeg" width="100px;" alt=""/><br /><sub><b>Jéssica</b></sub></a><br /><a href="https://github.com/JessicaPersou" title="GitHub Jéssica"></a></td>
