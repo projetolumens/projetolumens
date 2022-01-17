@@ -1,4 +1,4 @@
-## Olá! Esse é o projeto integrador do grupo 05, o Lumens!
+## Olá! Esse é o projeto Lumens do grupo 05!
 
 ##
 <h1 align="center">
@@ -14,7 +14,7 @@ Somos um e-Commerce focado em ajudar e conscientizar a população menos favorec
 de maneira ecológica, em conjunto com empresas e pontos ecológicos que visam  o desenvolvimento sustentável. 
 
 <h4 align="center">  
-<img height="90em" src="https://cdn.discordapp.com/attachments/912136460294041681/932639831211798568/pngwing.com.png"/>
+<img height="105em" src="https://cdn.discordapp.com/attachments/912136460294041681/932639831211798568/pngwing.com.png"/>
 
 
 ## 👨‍💻 Time:
