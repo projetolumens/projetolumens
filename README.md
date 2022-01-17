@@ -1,4 +1,4 @@
-## Olá! Esse é o projeto Lumens do grupo 05!
+## Olá! Esse é o Projeto Lumens do grupo 05!
 
 <h4 align="center">
 <img align="center" alt="logo do projeto" width="300" src="https://cdn.discordapp.com/attachments/912136460294041681/932669382482608148/branco_com_controno.png">
