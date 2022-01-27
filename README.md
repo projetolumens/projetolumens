@@ -5,7 +5,7 @@
 
 ## 💻🗣️ Sobre o projeto
 O Lumens foi criado para ser apresentado como Projeto Final de grupo da Turma-43 do Curso Bootcamp para Desenvolvedores Web Full Stack Java da ONG Generation Brasil. Com o objetivo de apresentar soluções técnológicas para alcançar a ODS 7 - Energia Acessível e Limpa.
-Somos um e-Commerce focado em ajudar e conscientizar a população vulnerável economicamente, oferecendo informações e suporte para descartes e troca de produtos, de maneira ecológica, em conjunto com empresas e pontos ecológicos que visam  o desenvolvimento sustentável. 
+Somos um e-Commerce focado em ajudar e conscientizar uma parte da população vulnerável economicamente, oferecendo informações e suporte para descartes e troca de produtos, de maneira ecológica, em conjunto com empresas e pontos ecológicos que visam  o desenvolvimento sustentável. 
 
 
 👤🗯 Os colaboradores deste projeto!!
