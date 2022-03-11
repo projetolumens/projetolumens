@@ -23,11 +23,12 @@ Front-end:
 - Implementação do consumo HTTP das páginas de postagem e tema ( Delete e Put );
 
 🚀 Futuras Implementações:
-- Empresas parceiras
-- Sistema de cashback
-- Verificação de produtos postados
-- Locais de coleta 
-- Sistema de coleta
+- Projetos de levar energia sustentável para áreas mais afetadas
+- Cashback com lojas parceiras
+- Retirada agendada por período
+- Separar pontos de coleta por região
+- Empresas com função administrador
+- Página para acompanhar a retirada do produto a ser descartado
 
 
 ## 👤🗯 Os colaboradores deste projeto!!
