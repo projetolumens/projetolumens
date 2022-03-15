@@ -17,10 +17,9 @@ Somos um e-Commerce focado em ajudar e conscientizar uma parte da população vu
 - Desenvolvimento das camadas de entidade,repository,controller,service,security e test do projeto;
   
 Front-end:  
-- Criando os componentes do Front-End (- Navbar - Footer - Página de Login - Página de cadastro - Página de Sobre );
+- Criando os componentes do Front-End (- Navbar - Footer - Página de Login - Página de cadastro - Página de Contato - Página de Bem-vinde - Página de Anuncios );
 - Ligação do Back com o Front ( Ligação na pagina do Login e do Cadastro );
-- Implementação do consumo HTTP das páginas de postagem e tema ( GET e Post );
-- Implementação do consumo HTTP das páginas de postagem e tema ( Delete e Put );
+- Implementação do consumo HTTP das páginas de postagem e categoria;
 
 🚀 Futuras Implementações:
 - Projetos de levar energia sustentável para áreas mais afetadas
