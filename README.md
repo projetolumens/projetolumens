@@ -17,7 +17,7 @@ Somos um e-Commerce focado em ajudar e conscientizar uma parte da população vu
 - Desenvolvimento das camadas de entidade,repository,controller,service,security e test do projeto;
   
 Front-end:  
-- Criando os componentes do Front-End (- Navbar - Footer - Página de Login - Página de cadastro - Página de Contato - Página de Bem-vinde - Página de Anuncios );
+- Criando os componentes do Front-End (- Navbar - Footer - Página de Login - Página de cadastro - Página de Contato - Página de Bem-vinde - Página de Anuncios -Página de contato );
 - Ligação do Back com o Front ( Ligação na pagina do Login e do Cadastro );
 - Implementação do consumo HTTP das páginas de postagem e categoria;
 
